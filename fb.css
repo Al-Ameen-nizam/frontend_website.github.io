@@ -1,0 +1,215 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 80px;
+}
+body{
+    margin: 0%;
+    font-family: Helvetica Neve Helvetica, Arial, sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 29px; 
+    float: left;   
+    
+}
+.login{
+    width: 50%;
+    float: left;
+    padding-top: 10px;
+}
+.logo-text{
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica Neve Helvetica, Arial, sans-serif;
+    margin-left: 190px;
+}
+.login-label{
+    color: #fff;
+    font-size: 13px;
+    margin-left: 8px;
+
+}
+.forgot{
+    color:bisque;
+    font-size: 11px;
+    text-decoration: none;
+    margin-left: 8px;
+}
+.login-controls{
+    margin-left: 115px;
+}
+.sub{
+    background: #4267b2;
+    color: white;
+    border-color: #29487d;
+    height: 20px;
+    margin-left: 6px;
+    cursor: pointer;
+
+}
+.block{
+    margin-left: 8px;
+}
+.sub:hover{
+    background: #29487d;
+}
+.forgot:hover{
+    color: white;
+}
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 132px;
+    padding-top: 40px;
+}
+.right-section{
+    width: 40%;
+    float: left;
+    
+}
+.main-body{
+    background: linear-gradient(white,#d3d8E8);
+    width: 100%;
+    height: 670px;
+
+}
+.image{
+    width: 650px;
+}
+.para1{
+    font-weight: bold;
+    font-size: 21px;
+}
+.head1{
+    padding-top: 25px;
+    margin-left: 8px;
+}
+.para2{
+    font-weight: bold;
+    margin-top: -8px;
+    margin-left: 8px;
+    
+}
+.create{
+    background: white;
+    width: 200px;
+    height: 35px;
+    margin-left: 8px;
+    border-radius: 4px;
+    float: left;
+    margin-top: 10px;
+
+}
+.create2{
+    background: white;
+    width: 416px;
+    float: left;
+    margin-left: 8px;
+    height: 35px;
+    margin-top: 12px;
+    border-radius: 4px;
+}
+.date{
+    color: #81848d;
+    float: left;
+    width: 100%;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-left: 8px;
+}
+.birth{
+    float: left;
+    margin-top: 5px;
+    margin-left:8px;
+    height: 25px;
+    border-color: none;
+    
+    border-radius: 2px;
+}
+.day{
+    width: 50px;
+    background: #eff1f1;
+    border-radius: 2px;
+}
+.month{
+    background-color: #eff1f1;
+    border-radius: 2px;
+
+}
+.year{
+    background: #eff1f1;
+    border-radius: 2px;
+    border-color: none;
+}
+.gender{
+    width: 100%;
+    float: left;
+    font-weight: bold;
+    margin-left:8px;
+    color: #81848d;
+}
+.male{
+    margin-left: 10px;
+    margin-top: 7px;
+    float: left;
+}
+.male1{
+    float: left;
+    font-weight: bold;
+    margin-left: 2px;
+    margin-top: 5px;
+}
+.female{
+    float: left;
+    margin-left: 20px;
+    margin-top: 7px;
+}
+.female1{
+    float: left;
+    margin-left: 2px;
+    margin-top: 5px;
+    font-weight: bold;
+}
+.other{
+    float: left;
+    margin-left: 20px;
+    margin-top: 7px;
+}
+.other1{
+    float: left;
+    margin-left: 2px;
+    margin-top: 5px;
+    font-weight: bold;
+    width: 40%;
+}
+.para4{
+    float:left;
+    font-size: 15px;
+    margin-left: 8px;
+    
+    
+
+}
+.signup{
+    float: left;
+    
+    width: 40%;
+    border-radius: 6px;
+    height: 40px;
+    background: linear-gradient(rgb(3, 128, 3),rgb(3, 121, 43));
+    color: white;
+    font-weight: bold;
+    font-size: larger;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-left: 8px;
+
+}
+.signup:hover{
+    background: rgb(1, 112, 1);
+    
+
+}
